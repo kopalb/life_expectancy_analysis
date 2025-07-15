@@ -10,4 +10,4 @@ This project analyzes global life expectancy data (2000–2015) to identify fact
 
 Key finding: Education and economic factors strongly correlate with longer life expectancy, while disease burdens reduce it significantly.
 
-[View Notebook](bit.ly/3GtT3Wp)
+[View Notebook](https://bit.ly/3GtT3Wp)
