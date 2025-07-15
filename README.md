@@ -11,3 +11,5 @@ This project analyzes global life expectancy data (2000–2015) to identify fact
 Key finding: Education and economic factors strongly correlate with longer life expectancy, while disease burdens reduce it significantly.
 
 [View Notebook](https://bit.ly/3GtT3Wp)
+
+This project uses the Life Expectancy (WHO) dataset from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
